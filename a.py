@@ -22,4 +22,4 @@ No VScode:
 
 Git pergunta quem sou:
 - git config --global user.name"meu usuario github"
-- git config --global user.email ---email github
+- git config --global user.email ---email github---

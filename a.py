@@ -1,3 +1,4 @@
+Iniciando:
 - verificar se gitbash já está baixado
 
 caso nao esteja:
@@ -21,5 +22,6 @@ No VScode:
 - git commit -m "nomear o commit entre aspas"
 
 Git pergunta quem sou:
-- git config --global user.name"meu usuario github"
-- git config --global user.email ---email github---
+- git config --global user.name "meu usuario github"
+- git config --global user.email email github
+- git pull -> envia para repositório local

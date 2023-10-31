@@ -1,3 +1,5 @@
+Aula 3
+
 Iniciando:
 - verificar se gitbash já está baixado
 
@@ -25,3 +27,35 @@ Git pergunta quem sou:
 - git config --global user.name "meu usuario github"
 - git config --global user.email email github
 - git pull -> envia para repositório local
+
+Criar Branch:
+- git branch + nome do branch
+- git branch -> aparece lista com todas as branches criadas
+- git checkout + nome da branch para a qual deseja mudar (muda de branch)
+
+* em 'file' o autosave tem q estar marcado
+
+- git checout -b + nome de brnch nova (sai da branch atual e já cria nova branch)
+- tem que publicar a branch antes do push
+- git push -set -upstream origin nome da branch
+
+Para fazer um merge:
+- pushar da secundária para a principal tem q estar com a principal aberta
+- git merge nome da branch
+- aparece commit automático
+- merge commit nome da branch
+- q + enter para voltar ao console
+(a brange depois do merge não foi apagada)
+
+Para apagar a branch:
+- git branch -d nome (apaga no repositório local)
+- para apagar no remoto clica na branch e apaga
+
+
+
+
+
+
+
+
+

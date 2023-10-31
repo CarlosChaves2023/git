@@ -1,0 +1,22 @@
+'''Aula 1 (faltei)
+
+Aula 2
+
+- git init -> inicia repositório
+- baixar git no site do git versão windows
+
+No vscode:
+- open folder
+- seleciona pasta
+- control + aspas duplas("")
+- seta para baixo
+- git bash -> abre o console
+
+No console:
+- git add . -> salva todas as alterações(ainda não é o commit)
+- clear (limpa tela do console)
+- git commit -m "nome do commit" + enter -> realiza o commit
+- ls -> para saber em qual pasta estamos 
+- cd nomedapasta + enter
+- git push origin main -> quando for o primeiro 
+- git push -> os seguintes'''
